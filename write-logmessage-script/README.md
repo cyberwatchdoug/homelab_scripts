@@ -65,3 +65,7 @@ Invoke-Pester -Path .\tests\Write-LogMessage.Tests.ps1
 - The function returns the log message string after writing it.
 - Errors encountered during directory or file creation, or writing to the log, are displayed in the console and written to the error log.
 - Pester tests help ensure the reliability and correctness of the function.
+
+## License
+
+This project is licensed under the GNU General Public License v3. See the [LICENSE](../LICENSE) file for more information.

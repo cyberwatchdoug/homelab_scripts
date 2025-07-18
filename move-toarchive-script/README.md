@@ -60,4 +60,4 @@ Logs are stored in the `logs` directory. Each execution appends to the log file,
 - Enhanced error handling and reporting.
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for more details.
+This project is licensed under the GNU General Public License v3. See the [LICENSE](../LICENSE) file for more information.

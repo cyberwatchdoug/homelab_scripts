@@ -42,4 +42,6 @@ Provides a flexible `Write-LogMessage` function for logging messages to files wi
 
 ## License
 
-See [LICENSE](LICENSE) for details.
+## License
+
+This project is licensed under the GNU General Public License v3. See the [LICENSE](LICENSE) file for more information.
